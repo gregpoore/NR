@@ -1,4 +1,7 @@
 .httr-oauth
+.DS_Store
+Figures_assembled/
+Deprecated/
 Figures/alphaBeta_K1C_HPRC_WIS_CMS/alphaBeta_Objects_PT_R4800.RData
 Figures/alphaBeta_K1C_HPRC_BinsWIS_CMS/alphaBeta_Objects_PT_R3600.RData
 Figures_assembled/Nature-response-figures-v1.pptx
