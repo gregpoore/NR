@@ -1,0 +1,2 @@
+"","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName","aucroc","aupr"
+"1","Uterine Carcinosarcoma","Primary Tumor","vsnmDataGenusKrakenQCFilt","metaDataFinalNonzeroQC_RNA",57,9419,"Uterine Carcinosarcoma","OtherCancerType",0.612555960437272,0.00796050294450529

@@ -1,0 +1,2 @@
+"","diseaseType","sampleType","datasetName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName","aucroc","aupr"
+"1","Stomach Adenocarcinoma","Primary Tumor","vsnmDataGenusKrakenQCFilt",850,10714,"Stomach Adenocarcinoma","OtherCancerType",0.992583915955928,0.94341890335046

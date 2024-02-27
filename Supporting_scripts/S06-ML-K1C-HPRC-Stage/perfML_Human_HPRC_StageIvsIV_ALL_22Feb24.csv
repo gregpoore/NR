@@ -1,0 +1,17 @@
+"","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName","aucroc","aupr"
+"1","Breast Invasive Carcinoma","Stage I vs IV","vsnmDataGenusKrakenQCFilt_Path","metaDataFinalNonzeroQCPath",20,200,"Stage4","Stage1",0.522222222222222,0.246782227197322
+"2","Colon Adenocarcinoma","Stage I vs IV","vsnmDataGenusKrakenQCFilt_Path","metaDataFinalNonzeroQCPath",53,69,"Stage4","Stage1",0.713333333333333,0.692417262847774
+"3","Kidney Renal Clear Cell Carcinoma","Stage I vs IV","vsnmDataGenusKrakenQCFilt_Path","metaDataFinalNonzeroQCPath",170,495,"Stage4","Stage1",0.465288818229995,0.270480811494796
+"4","Lung Adenocarcinoma","Stage I vs IV","vsnmDataGenusKrakenQCFilt_Path","metaDataFinalNonzeroQCPath",39,343,"Stage4","Stage1",0.525846702317291,0.10560902827176
+"5","Rectum Adenocarcinoma","Stage I vs IV","vsnmDataGenusKrakenQCFilt_Path","metaDataFinalNonzeroQCPath",25,25,"Stage1","Stage1",0.428571428571429,0.423584605479508
+"6","Rectum Adenocarcinoma","Stage I vs IV","vsnmDataGenusKrakenQCFilt_Path","metaDataFinalNonzeroQCPath",25,25,"Stage4","Stage4",0.428571428571429,0.423584605479508
+"7","Stomach Adenocarcinoma","Stage I vs IV","vsnmDataGenusKrakenQCFilt_Path","metaDataFinalNonzeroQCPath",93,124,"Stage4","Stage1",0.854854854854855,0.822942917923903
+"8","Thyroid Carcinoma","Stage I vs IV","vsnmDataGenusKrakenQCFilt_Path","metaDataFinalNonzeroQCPath",76,363,"Stage4","Stage1",0.46969696969697,0.157714782860984
+"9","Breast Invasive Carcinoma","Stage I vs IV","vsnmDataGenusKrakenQCFiltWIS_Path","metaDataFinalNonzeroQCPath",20,200,"Stage4","Stage1",0.613888888888889,0.124426525546541
+"10","Colon Adenocarcinoma","Stage I vs IV","vsnmDataGenusKrakenQCFiltWIS_Path","metaDataFinalNonzeroQCPath",53,69,"Stage4","Stage1",0.605,0.449435886894313
+"11","Kidney Renal Clear Cell Carcinoma","Stage I vs IV","vsnmDataGenusKrakenQCFiltWIS_Path","metaDataFinalNonzeroQCPath",170,495,"Stage4","Stage1",0.495627980922099,0.270484614397457
+"12","Lung Adenocarcinoma","Stage I vs IV","vsnmDataGenusKrakenQCFiltWIS_Path","metaDataFinalNonzeroQCPath",39,343,"Stage4","Stage1",0.459893048128342,0.0837038145669352
+"13","Rectum Adenocarcinoma","Stage I vs IV","vsnmDataGenusKrakenQCFiltWIS_Path","metaDataFinalNonzeroQCPath",25,25,"Stage1","Stage1",0.122448979591837,0.327810885346119
+"14","Rectum Adenocarcinoma","Stage I vs IV","vsnmDataGenusKrakenQCFiltWIS_Path","metaDataFinalNonzeroQCPath",25,25,"Stage4","Stage4",0.122448979591837,0.327810885346119
+"15","Stomach Adenocarcinoma","Stage I vs IV","vsnmDataGenusKrakenQCFiltWIS_Path","metaDataFinalNonzeroQCPath",93,124,"Stage4","Stage1",0.791791791791792,0.780376333826479
+"16","Thyroid Carcinoma","Stage I vs IV","vsnmDataGenusKrakenQCFiltWIS_Path","metaDataFinalNonzeroQCPath",76,363,"Stage4","Stage1",0.528619528619529,0.166889498312265

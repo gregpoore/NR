@@ -1,0 +1,2 @@
+"","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName","aucroc","aupr"
+"1","Lung Adenocarcinoma","Primary Tumor","countsVbFinalNonzeroQC_HiSeq_HMS","metaDataFinalNonzeroQC_HiSeq_HMS",111,758,"Lung Adenocarcinoma","OtherCancerType",0.987318115071419,0.946738750398114

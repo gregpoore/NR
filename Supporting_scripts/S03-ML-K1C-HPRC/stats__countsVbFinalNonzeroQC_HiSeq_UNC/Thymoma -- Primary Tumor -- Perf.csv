@@ -1,0 +1,2 @@
+"","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName","aucroc","aupr"
+"1","Thymoma","Primary Tumor","countsVbFinalNonzeroQC_HiSeq_UNC","metaDataFinalNonzeroQC_HiSeq_UNC",120,7498,"Thymoma","OtherCancerType",0.693462526555012,0.0279401202699397

@@ -1,0 +1,2 @@
+"","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName","aucroc","aupr"
+"1","Esophageal Carcinoma","Primary Tumor","vsnmDataGenusKrakenQCFilt","metaDataFinalNonzeroQC",253,11311,"Esophageal Carcinoma","OtherCancerType",0.995178308281757,0.82467385909229

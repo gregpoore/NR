@@ -1,0 +1,53 @@
+[1] "Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma"
+Confusion Matrix and Statistics
+
+                                                            Reference
+Prediction                                                   CervicalSquamousCellCarcinomaandEndocervicalAdenocarcinoma
+  CervicalSquamousCellCarcinomaandEndocervicalAdenocarcinoma                                                         63
+  OtherCancerType                                                                                                    48
+                                                            Reference
+Prediction                                                   OtherCancerType
+  CervicalSquamousCellCarcinomaandEndocervicalAdenocarcinoma             872
+  OtherCancerType                                                       2485
+                         
+               Accuracy :
+                 95% CI :
+    No Information Rate :
+    P-Value [Acc > NIR] :
+                         
+                  Kappa :
+                         
+ Mcnemar's Test P-Value :
+                         
+            Sensitivity :
+            Specificity :
+         Pos Pred Value :
+         Neg Pred Value :
+             Prevalence :
+         Detection Rate :
+   Detection Prevalence :
+      Balanced Accuracy :
+                         
+       'Positive' Class :
+                         
+                                                           
+ 0.7347                                                    
+ (0.7197, 0.7494)                                          
+ 0.968                                                     
+ 1                                                         
+                                                           
+ 0.0671                                                    
+                                                           
+ <2e-16                                                    
+                                                           
+ 0.56757                                                   
+ 0.74024                                                   
+ 0.06738                                                   
+ 0.98105                                                   
+ 0.03201                                                   
+ 0.01817                                                   
+ 0.26961                                                   
+ 0.65391                                                   
+                                                           
+ CervicalSquamousCellCarcinomaandEndocervicalAdenocarcinoma
+                                                           

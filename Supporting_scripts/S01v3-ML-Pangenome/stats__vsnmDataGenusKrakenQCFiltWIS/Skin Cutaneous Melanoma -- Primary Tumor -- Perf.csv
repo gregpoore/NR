@@ -1,0 +1,2 @@
+"","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName","aucroc","aupr"
+"1","Skin Cutaneous Melanoma","Primary Tumor","vsnmDataGenusKrakenQCFiltWIS","metaDataFinalNonzeroQC_RNA",102,9374,"Skin Cutaneous Melanoma","OtherCancerType",0.57873399715505,0.0126863024632154

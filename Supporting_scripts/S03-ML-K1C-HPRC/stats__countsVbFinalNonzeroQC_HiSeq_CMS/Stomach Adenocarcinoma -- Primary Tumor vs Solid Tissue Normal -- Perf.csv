@@ -1,0 +1,2 @@
+"","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName","aucroc","aupr"
+"1","Stomach Adenocarcinoma","Primary Tumor vs Solid Tissue Normal","countsVbFinalNonzeroQC_HiSeq_CMS","metaDataFinalNonzeroQC_HiSeq_CMS",70,618,"SolidTissueNormal","PrimaryTumor",0.944144144144144,0.992509052359761

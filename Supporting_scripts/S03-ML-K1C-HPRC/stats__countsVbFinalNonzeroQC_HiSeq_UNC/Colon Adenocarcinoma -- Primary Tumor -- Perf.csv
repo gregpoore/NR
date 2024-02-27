@@ -1,0 +1,2 @@
+"","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName","aucroc","aupr"
+"1","Colon Adenocarcinoma","Primary Tumor","countsVbFinalNonzeroQC_HiSeq_UNC","metaDataFinalNonzeroQC_HiSeq_UNC",278,7340,"Colon Adenocarcinoma","OtherCancerType",0.638663646411258,0.0677279750866872

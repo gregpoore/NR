@@ -1,0 +1,28 @@
+[1] "Lung Squamous Cell Carcinoma"
+Confusion Matrix and Statistics
+
+                   Reference
+Prediction          PrimaryTumor SolidTissueNormal
+  PrimaryTumor               154                 6
+  SolidTissueNormal            7                18
+                                          
+               Accuracy : 0.9297          
+                 95% CI : (0.8828, 0.9621)
+    No Information Rate : 0.8703          
+    P-Value [Acc > NIR] : 0.007216        
+                                          
+                  Kappa : 0.6942          
+                                          
+ Mcnemar's Test P-Value : 1.000000        
+                                          
+            Sensitivity : 0.9565          
+            Specificity : 0.7500          
+         Pos Pred Value : 0.9625          
+         Neg Pred Value : 0.7200          
+             Prevalence : 0.8703          
+         Detection Rate : 0.8324          
+   Detection Prevalence : 0.8649          
+      Balanced Accuracy : 0.8533          
+                                          
+       'Positive' Class : PrimaryTumor    
+                                          

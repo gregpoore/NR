@@ -1,0 +1,2 @@
+"","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName","aucroc","aupr"
+"1","Brain Lower Grade Glioma","Primary Tumor","countsVbFinalNonzeroQCBinsWIS_HiSeq_UNC","metaDataFinalNonzeroQC_HiSeq_UNC",514,7104,"Brain Lower Grade Glioma","OtherCancerType",0.700800489983972,0.120512400146401

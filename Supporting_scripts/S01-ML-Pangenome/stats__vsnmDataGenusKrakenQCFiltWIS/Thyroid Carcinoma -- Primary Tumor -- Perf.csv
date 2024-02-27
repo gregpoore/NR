@@ -1,0 +1,2 @@
+"","diseaseType","sampleType","datasetName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName","aucroc","aupr"
+"1","Thyroid Carcinoma","Primary Tumor","vsnmDataGenusKrakenQCFiltWIS",655,10909,"Thyroid Carcinoma","OtherCancerType",0.871855664637493,0.370723862413101

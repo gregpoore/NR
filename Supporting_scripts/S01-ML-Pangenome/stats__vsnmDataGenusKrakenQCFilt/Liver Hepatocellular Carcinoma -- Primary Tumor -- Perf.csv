@@ -1,0 +1,2 @@
+"","diseaseType","sampleType","datasetName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName","aucroc","aupr"
+"1","Liver Hepatocellular Carcinoma","Primary Tumor","vsnmDataGenusKrakenQCFilt",416,11148,"Liver Hepatocellular Carcinoma","OtherCancerType",0.837930718475073,0.218451199949655

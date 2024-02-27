@@ -1,0 +1,2 @@
+"","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName","aucroc","aupr"
+"1","Bladder Urothelial Carcinoma","Blood Derived Normal","countsVbFinalNonzeroQCBinsWIS_HiSeq_Broad_WGS","metaDataFinalNonzeroQC_HiSeq_Broad_WGS",25,279,"Bladder Urothelial Carcinoma","OtherCancerType",0.898450946643718,0.644208577021667

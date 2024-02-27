@@ -1,0 +1,2 @@
+"","diseaseType","sampleType","datasetName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName","aucroc","aupr"
+"1","Lung Adenocarcinoma","Blood Derived Normal","vsnmDataGenusKrakenQCFiltWIS",66,592,"Lung Adenocarcinoma","OtherCancerType",0.933095450490633,0.739550011802057

@@ -1,0 +1,2 @@
+"","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName","aucroc","aupr"
+"1","Thyroid Carcinoma","Primary Tumor vs Solid Tissue Normal","vsnmDataGenusKrakenQCFiltWIS","metaDataFinalNonzeroQC_RNA",59,505,"SolidTissueNormal","PrimaryTumor",0.945072068562524,0.992047424355097

@@ -1,0 +1,2 @@
+"","diseaseType","sampleType","datasetName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName","aucroc","aupr"
+"1","Prostate Adenocarcinoma","Blood Derived Normal","vsnmDataGenusKrakenQCFiltWIS",57,224,"Prostate Adenocarcinoma","OtherCancerType",0.921861281826163,0.814861070435445

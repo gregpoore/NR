@@ -1,0 +1,2 @@
+"","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName","aucroc","aupr"
+"1","Kidney Renal Papillary Cell Carcinoma","Primary Tumor vs Solid Tissue Normal","countsVbFinalNonzeroQCBinsWIS_HiSeq_UNC","metaDataFinalNonzeroQC_HiSeq_UNC",32,284,"SolidTissueNormal","PrimaryTumor",0.583006535947712,0.933221678583371

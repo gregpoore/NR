@@ -1,0 +1,2 @@
+"","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName","aucroc","aupr"
+"1","Lymphoid Neoplasm Diffuse Large B-cell Lymphoma","Primary Tumor","countsVbFinalNonzeroQCBinsWIS_HiSeq_UNC","metaDataFinalNonzeroQC_HiSeq_UNC",47,7571,"Lymphoid Neoplasm Diffuse Large B-cell Lymphoma","OtherCancerType",0.469459646474178,0.00548155752939449

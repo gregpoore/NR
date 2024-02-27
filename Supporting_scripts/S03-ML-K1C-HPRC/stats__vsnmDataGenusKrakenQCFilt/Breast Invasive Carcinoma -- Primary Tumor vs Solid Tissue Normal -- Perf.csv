@@ -1,0 +1,2 @@
+"","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName","aucroc","aupr"
+"1","Breast Invasive Carcinoma","Primary Tumor vs Solid Tissue Normal","vsnmDataGenusKrakenQCFilt","metaDataFinalNonzeroQC",129,1196,"SolidTissueNormal","PrimaryTumor",0.987062628638636,0.998527839325959

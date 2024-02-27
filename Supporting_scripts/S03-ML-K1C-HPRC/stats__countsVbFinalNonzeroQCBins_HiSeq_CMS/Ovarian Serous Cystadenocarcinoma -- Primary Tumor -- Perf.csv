@@ -1,0 +1,2 @@
+"","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName","aucroc","aupr"
+"1","Ovarian Serous Cystadenocarcinoma","Primary Tumor","countsVbFinalNonzeroQCBins_HiSeq_CMS","metaDataFinalNonzeroQC_HiSeq_CMS",802,829,"OtherCancerType","Ovarian Serous Cystadenocarcinoma",0.993934811827957,0.995464311319982

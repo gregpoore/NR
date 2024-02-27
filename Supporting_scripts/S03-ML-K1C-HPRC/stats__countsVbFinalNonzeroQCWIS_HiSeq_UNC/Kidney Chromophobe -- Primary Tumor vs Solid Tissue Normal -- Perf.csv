@@ -1,0 +1,2 @@
+"","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName","aucroc","aupr"
+"1","Kidney Chromophobe","Primary Tumor vs Solid Tissue Normal","countsVbFinalNonzeroQCWIS_HiSeq_UNC","metaDataFinalNonzeroQC_HiSeq_UNC",25,66,"SolidTissueNormal","PrimaryTumor",0.639097744360902,0.829436994440992

@@ -1,0 +1,2 @@
+"","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName","aucroc","aupr"
+"1","Prostate Adenocarcinoma","Primary Tumor vs Solid Tissue Normal","countsVbFinalNonzeroQCBins_HiSeq_UNC","metaDataFinalNonzeroQC_HiSeq_UNC",52,496,"SolidTissueNormal","PrimaryTumor",0.524324324324324,0.919596564567664

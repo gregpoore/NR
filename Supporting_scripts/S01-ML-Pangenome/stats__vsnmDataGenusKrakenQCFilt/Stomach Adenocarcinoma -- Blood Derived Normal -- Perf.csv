@@ -1,0 +1,2 @@
+"","diseaseType","sampleType","datasetName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName","aucroc","aupr"
+"1","Stomach Adenocarcinoma","Blood Derived Normal","vsnmDataGenusKrakenQCFilt",24,448,"Stomach Adenocarcinoma","OtherCancerType",0.800639658848614,0.349568047874634

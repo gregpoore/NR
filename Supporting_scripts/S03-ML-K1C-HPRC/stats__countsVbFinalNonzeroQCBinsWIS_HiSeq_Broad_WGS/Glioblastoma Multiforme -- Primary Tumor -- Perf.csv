@@ -1,0 +1,2 @@
+"","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName","aucroc","aupr"
+"1","Glioblastoma Multiforme","Primary Tumor","countsVbFinalNonzeroQCBinsWIS_HiSeq_Broad_WGS","metaDataFinalNonzeroQC_HiSeq_Broad_WGS",34,319,"Glioblastoma Multiforme","OtherCancerType",0.843157894736842,0.6582403878554

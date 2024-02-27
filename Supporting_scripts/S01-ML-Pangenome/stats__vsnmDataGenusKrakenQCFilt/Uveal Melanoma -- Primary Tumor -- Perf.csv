@@ -1,0 +1,2 @@
+"","diseaseType","sampleType","datasetName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName","aucroc","aupr"
+"1","Uveal Melanoma","Primary Tumor","vsnmDataGenusKrakenQCFilt",131,11433,"Uveal Melanoma","OtherCancerType",0.875144880394224,0.397752582745249

@@ -1,0 +1,2 @@
+"","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName","aucroc","aupr"
+"1","Head and Neck Squamous Cell Carcinoma","Primary Tumor","vsnmDataGenusKrakenQCFiltWIS","metaDataFinalNonzeroQC",167,11397,"Head and Neck Squamous Cell Carcinoma","OtherCancerType",0.991190406551623,0.79621589712186

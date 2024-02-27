@@ -1,0 +1,2 @@
+"","diseaseType","sampleType","datasetName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName","aucroc","aupr"
+"1","Bladder Urothelial Carcinoma","Primary Tumor","vsnmDataGenusKrakenQCFiltWIS",548,11016,"Bladder Urothelial Carcinoma","OtherCancerType",0.747776161932321,0.188091826846264

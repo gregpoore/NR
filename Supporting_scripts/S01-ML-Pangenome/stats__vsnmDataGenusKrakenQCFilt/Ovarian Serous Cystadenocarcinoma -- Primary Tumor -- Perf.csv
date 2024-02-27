@@ -1,0 +1,2 @@
+"","diseaseType","sampleType","datasetName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName","aucroc","aupr"
+"1","Ovarian Serous Cystadenocarcinoma","Primary Tumor","vsnmDataGenusKrakenQCFilt",896,10668,"Ovarian Serous Cystadenocarcinoma","OtherCancerType",0.998703358208955,0.986676256378646

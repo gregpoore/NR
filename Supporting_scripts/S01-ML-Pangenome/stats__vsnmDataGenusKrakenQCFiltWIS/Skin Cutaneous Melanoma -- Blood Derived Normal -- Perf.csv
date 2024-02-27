@@ -1,0 +1,2 @@
+"","diseaseType","sampleType","datasetName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName","aucroc","aupr"
+"1","Skin Cutaneous Melanoma","Blood Derived Normal","vsnmDataGenusKrakenQCFiltWIS",74,584,"Skin Cutaneous Melanoma","OtherCancerType",0.896883116883117,0.540035302435313

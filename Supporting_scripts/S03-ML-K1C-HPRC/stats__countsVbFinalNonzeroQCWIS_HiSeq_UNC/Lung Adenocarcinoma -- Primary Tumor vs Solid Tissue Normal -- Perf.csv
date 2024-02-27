@@ -1,0 +1,2 @@
+"","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName","aucroc","aupr"
+"1","Lung Adenocarcinoma","Primary Tumor vs Solid Tissue Normal","countsVbFinalNonzeroQCWIS_HiSeq_UNC","metaDataFinalNonzeroQC_HiSeq_UNC",59,495,"SolidTissueNormal","PrimaryTumor",0.610095389507154,0.928379233517039

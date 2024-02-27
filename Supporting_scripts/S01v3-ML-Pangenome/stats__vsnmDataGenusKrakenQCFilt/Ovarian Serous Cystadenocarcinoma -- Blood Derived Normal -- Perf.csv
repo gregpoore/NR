@@ -1,0 +1,2 @@
+"","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName","aucroc","aupr"
+"1","Ovarian Serous Cystadenocarcinoma","Blood Derived Normal","vsnmDataGenusKrakenQCFilt","metaDataFinalNonzeroQC_WGS",55,1788,"Ovarian Serous Cystadenocarcinoma","OtherCancerType",0.890391791044776,0.496120907277439

@@ -1,0 +1,2 @@
+"","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName","aucroc","aupr"
+"1","Thymoma","Primary Tumor","vsnmDataGenusKrakenQCFiltWIS","metaDataFinalNonzeroQC",120,11444,"Thymoma","OtherCancerType",0.713633200634366,0.0201805323075005

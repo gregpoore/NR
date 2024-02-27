@@ -1,0 +1,2 @@
+"","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName","aucroc","aupr"
+"1","Breast Invasive Carcinoma","Primary Tumor","countsVbFinalNonzeroQCBinsWIS_HiSeq_WashU","metaDataFinalNonzeroQC_HiSeq_WashU",92,100,"Breast Invasive Carcinoma","OtherCancerType",0.918518518518519,0.911768110351526

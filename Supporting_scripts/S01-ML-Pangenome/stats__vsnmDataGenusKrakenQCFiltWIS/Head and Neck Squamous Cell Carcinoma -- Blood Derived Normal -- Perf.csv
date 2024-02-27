@@ -1,0 +1,2 @@
+"","diseaseType","sampleType","datasetName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName","aucroc","aupr"
+"1","Head and Neck Squamous Cell Carcinoma","Blood Derived Normal","vsnmDataGenusKrakenQCFiltWIS",23,449,"Head and Neck Squamous Cell Carcinoma","OtherCancerType",0.922885572139303,0.284481523579491

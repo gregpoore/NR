@@ -1,0 +1,2 @@
+"","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName","aucroc","aupr"
+"1","Liver Hepatocellular Carcinoma","Primary Tumor","countsVbFinalNonzeroQCWIS_HiSeq_UNC","metaDataFinalNonzeroQC_HiSeq_UNC",362,7256,"Liver Hepatocellular Carcinoma","OtherCancerType",0.802415236928105,0.16107984269464

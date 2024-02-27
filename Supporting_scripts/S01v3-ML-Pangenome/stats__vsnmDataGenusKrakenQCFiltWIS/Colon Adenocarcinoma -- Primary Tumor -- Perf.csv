@@ -1,0 +1,2 @@
+"","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName","aucroc","aupr"
+"1","Colon Adenocarcinoma","Primary Tumor","vsnmDataGenusKrakenQCFiltWIS","metaDataFinalNonzeroQC_RNA",278,9198,"Colon Adenocarcinoma","OtherCancerType",0.670563369825806,0.0471129218660892

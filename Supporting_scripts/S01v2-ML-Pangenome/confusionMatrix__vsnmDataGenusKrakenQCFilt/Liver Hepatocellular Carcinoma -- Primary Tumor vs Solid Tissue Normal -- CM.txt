@@ -1,0 +1,28 @@
+[1] "Liver Hepatocellular Carcinoma"
+Confusion Matrix and Statistics
+
+                   Reference
+Prediction          PrimaryTumor SolidTissueNormal
+  PrimaryTumor               120                 4
+  SolidTissueNormal            4                17
+                                          
+               Accuracy : 0.9448          
+                 95% CI : (0.8942, 0.9759)
+    No Information Rate : 0.8552          
+    P-Value [Acc > NIR] : 0.000559        
+                                          
+                  Kappa : 0.7773          
+                                          
+ Mcnemar's Test P-Value : 1.000000        
+                                          
+            Sensitivity : 0.9677          
+            Specificity : 0.8095          
+         Pos Pred Value : 0.9677          
+         Neg Pred Value : 0.8095          
+             Prevalence : 0.8552          
+         Detection Rate : 0.8276          
+   Detection Prevalence : 0.8552          
+      Balanced Accuracy : 0.8886          
+                                          
+       'Positive' Class : PrimaryTumor    
+                                          

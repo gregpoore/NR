@@ -1,0 +1,2 @@
+"","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName","aucroc","aupr"
+"1","Kidney Renal Clear Cell Carcinoma","Primary Tumor vs Solid Tissue Normal","countsVbFinalNonzeroQCBinsWIS_HiSeq_BCM","metaDataFinalNonzeroQC_HiSeq_BCM",33,38,"SolidTissueNormal","PrimaryTumor",0.909090909090909,0.893483061179495

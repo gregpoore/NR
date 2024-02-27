@@ -1,0 +1,3 @@
+"","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName","aucroc","aupr"
+"1","Rectum Adenocarcinoma","Stage I vs IV","vsnmDataGenusKrakenQCFilt","metaDataFinalNonzeroQC_noMutFoundation",25,25,"Stage1","Stage1",0.326530612244898,0.384125914518795
+"2","Rectum Adenocarcinoma","Stage I vs IV","vsnmDataGenusKrakenQCFilt","metaDataFinalNonzeroQC_noMutFoundation",25,25,"Stage4","Stage4",0.326530612244898,0.384125914518795

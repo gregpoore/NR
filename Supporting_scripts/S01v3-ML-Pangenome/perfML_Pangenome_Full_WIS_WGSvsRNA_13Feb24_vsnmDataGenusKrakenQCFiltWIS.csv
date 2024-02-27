@@ -1,0 +1,91 @@
+"","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName","aucroc","aupr"
+"1","Bladder Urothelial Carcinoma","Primary Tumor","vsnmDataGenusKrakenQCFiltWIS","metaDataFinalNonzeroQC_WGS",140,1948,"Bladder Urothelial Carcinoma","OtherCancerType",0.966364970645793,0.756106698454265
+"2","Brain Lower Grade Glioma","Primary Tumor","vsnmDataGenusKrakenQCFiltWIS","metaDataFinalNonzeroQC_WGS",91,1997,"Brain Lower Grade Glioma","OtherCancerType",0.940394484634885,0.429586701787315
+"3","Breast Invasive Carcinoma","Primary Tumor","vsnmDataGenusKrakenQCFiltWIS","metaDataFinalNonzeroQC_WGS",114,1974,"Breast Invasive Carcinoma","OtherCancerType",0.993591017488076,0.898864440765002
+"4","Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma","Primary Tumor","vsnmDataGenusKrakenQCFiltWIS","metaDataFinalNonzeroQC_WGS",68,2020,"Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma","OtherCancerType",0.951815181518152,0.705104183673329
+"5","Colon Adenocarcinoma","Primary Tumor","vsnmDataGenusKrakenQCFiltWIS","metaDataFinalNonzeroQC_WGS",131,1957,"Colon Adenocarcinoma","OtherCancerType",0.978202944131394,0.710006672759478
+"6","Esophageal Carcinoma","Primary Tumor","vsnmDataGenusKrakenQCFiltWIS","metaDataFinalNonzeroQC_WGS",69,2019,"Esophageal Carcinoma","OtherCancerType",0.989917355371901,0.844557598607888
+"7","Glioblastoma Multiforme","Primary Tumor","vsnmDataGenusKrakenQCFiltWIS","metaDataFinalNonzeroQC_WGS",70,2018,"Glioblastoma Multiforme","OtherCancerType",0.9547422274695,0.727909242299077
+"8","Head and Neck Squamous Cell Carcinoma","Primary Tumor","vsnmDataGenusKrakenQCFiltWIS","metaDataFinalNonzeroQC_WGS",167,1921,"Head and Neck Squamous Cell Carcinoma","OtherCancerType",0.965729166666667,0.82081520758346
+"9","Kidney Chromophobe","Primary Tumor","vsnmDataGenusKrakenQCFiltWIS","metaDataFinalNonzeroQC_WGS",50,2038,"Kidney Chromophobe","OtherCancerType",0.995853791598472,0.883017739833189
+"10","Kidney Renal Clear Cell Carcinoma","Primary Tumor","vsnmDataGenusKrakenQCFiltWIS","metaDataFinalNonzeroQC_WGS",43,2045,"Kidney Renal Clear Cell Carcinoma","OtherCancerType",0.999184339314845,0.957585662073611
+"11","Kidney Renal Papillary Cell Carcinoma","Primary Tumor","vsnmDataGenusKrakenQCFiltWIS","metaDataFinalNonzeroQC_WGS",37,2051,"Kidney Renal Papillary Cell Carcinoma","OtherCancerType",0.958758314855876,0.392616263230157
+"12","Liver Hepatocellular Carcinoma","Primary Tumor","vsnmDataGenusKrakenQCFiltWIS","metaDataFinalNonzeroQC_WGS",54,2034,"Liver Hepatocellular Carcinoma","OtherCancerType",0.992725409836066,0.787100153425669
+"13","Lung Adenocarcinoma","Primary Tumor","vsnmDataGenusKrakenQCFiltWIS","metaDataFinalNonzeroQC_WGS",158,1930,"Lung Adenocarcinoma","OtherCancerType",0.977106529967295,0.839182786163332
+"14","Lung Squamous Cell Carcinoma","Primary Tumor","vsnmDataGenusKrakenQCFiltWIS","metaDataFinalNonzeroQC_WGS",49,2039,"Lung Squamous Cell Carcinoma","OtherCancerType",0.874561608604162,0.366864474840254
+"15","Lung Squamous Cell Carcinoma","Primary Tumor","vsnmDataGenusKrakenQCFilt","metaDataFinalNonzeroQC_RNA",489,8987,"Lung Squamous Cell Carcinoma","OtherCancerType",0.674027478557782,0.0859496444894054
+"16","Ovarian Serous Cystadenocarcinoma","Primary Tumor","vsnmDataGenusKrakenQCFiltWIS","metaDataFinalNonzeroQC_WGS",67,2021,"Ovarian Serous Cystadenocarcinoma","OtherCancerType",0.977062706270627,0.722544506657026
+"17","Prostate Adenocarcinoma","Primary Tumor","vsnmDataGenusKrakenQCFiltWIS","metaDataFinalNonzeroQC_WGS",136,1952,"Prostate Adenocarcinoma","OtherCancerType",0.972264957264957,0.666060496364359
+"18","Rectum Adenocarcinoma","Primary Tumor","vsnmDataGenusKrakenQCFiltWIS","metaDataFinalNonzeroQC_WGS",60,2028,"Rectum Adenocarcinoma","OtherCancerType",0.961440058479532,0.402042077125011
+"19","Sarcoma","Primary Tumor","vsnmDataGenusKrakenQCFiltWIS","metaDataFinalNonzeroQC_WGS",40,2048,"Sarcoma","OtherCancerType",0.99742128121607,0.897111799716517
+"20","Skin Cutaneous Melanoma","Blood Derived Normal","vsnmDataGenusKrakenQCFiltWIS","metaDataFinalNonzeroQC_WGS",158,1685,"Skin Cutaneous Melanoma","OtherCancerType",0.938908784495471,0.577047450236451
+"21","Stomach Adenocarcinoma","Primary Tumor","vsnmDataGenusKrakenQCFiltWIS","metaDataFinalNonzeroQC_WGS",160,1928,"Stomach Adenocarcinoma","OtherCancerType",0.960856401384083,0.803329371997573
+"22","Thyroid Carcinoma","Primary Tumor","vsnmDataGenusKrakenQCFiltWIS","metaDataFinalNonzeroQC_WGS",150,1938,"Thyroid Carcinoma","OtherCancerType",0.962210747752916,0.718662745236123
+"23","Uterine Corpus Endometrial Carcinoma","Primary Tumor","vsnmDataGenusKrakenQCFiltWIS","metaDataFinalNonzeroQC_WGS",158,1930,"Uterine Corpus Endometrial Carcinoma","OtherCancerType",0.951530518502187,0.722639226468514
+"24","Uveal Melanoma","Primary Tumor","vsnmDataGenusKrakenQCFiltWIS","metaDataFinalNonzeroQC_WGS",51,2037,"Uveal Melanoma","OtherCancerType",0.990452809601746,0.640577703562716
+"25","Testicular Germ Cell Tumors","Primary Tumor","vsnmDataGenusKrakenQCFilt","metaDataFinalNonzeroQC_RNA",134,9342,"Testicular Germ Cell Tumors","OtherCancerType",0.799286224125625,0.0394292298006524
+"26","Thymoma","Primary Tumor","vsnmDataGenusKrakenQCFilt","metaDataFinalNonzeroQC_RNA",120,9356,"Thymoma","OtherCancerType",0.673675457353291,0.0212325112512483
+"27","Thyroid Carcinoma","Primary Tumor","vsnmDataGenusKrakenQCFilt","metaDataFinalNonzeroQC_RNA",505,8971,"Thyroid Carcinoma","OtherCancerType",0.961734110020894,0.809966847353124
+"28","Uterine Carcinosarcoma","Primary Tumor","vsnmDataGenusKrakenQCFilt","metaDataFinalNonzeroQC_RNA",57,9419,"Uterine Carcinosarcoma","OtherCancerType",0.612555960437272,0.00796050294450529
+"29","Uterine Corpus Endometrial Carcinoma","Primary Tumor","vsnmDataGenusKrakenQCFilt","metaDataFinalNonzeroQC_RNA",174,9302,"Uterine Corpus Endometrial Carcinoma","OtherCancerType",0.701302729528536,0.0696811489036446
+"30","Uveal Melanoma","Primary Tumor","vsnmDataGenusKrakenQCFilt","metaDataFinalNonzeroQC_RNA",80,9396,"Uveal Melanoma","OtherCancerType",0.80379110480246,0.0522983570301519
+"31","Bladder Urothelial Carcinoma","Primary Tumor","vsnmDataGenusKrakenQCFiltWIS","metaDataFinalNonzeroQC_WGS",140,1948,"Bladder Urothelial Carcinoma","OtherCancerType",0.966364970645793,0.756106698454265
+"32","Brain Lower Grade Glioma","Primary Tumor","vsnmDataGenusKrakenQCFiltWIS","metaDataFinalNonzeroQC_WGS",91,1997,"Brain Lower Grade Glioma","OtherCancerType",0.940394484634885,0.429586701787315
+"33","Breast Invasive Carcinoma","Primary Tumor","vsnmDataGenusKrakenQCFiltWIS","metaDataFinalNonzeroQC_WGS",114,1974,"Breast Invasive Carcinoma","OtherCancerType",0.993591017488076,0.898864440765002
+"34","Breast Invasive Carcinoma","Primary Tumor vs Solid Tissue Normal","vsnmDataGenusKrakenQCFiltWIS","metaDataFinalNonzeroQC_RNA",113,1082,"SolidTissueNormal","PrimaryTumor",0.966517022072578,0.995983858489346
+"35","Colon Adenocarcinoma","Primary Tumor","vsnmDataGenusKrakenQCFiltWIS","metaDataFinalNonzeroQC_WGS",131,1957,"Colon Adenocarcinoma","OtherCancerType",0.978202944131394,0.710006672759478
+"36","Esophageal Carcinoma","Primary Tumor","vsnmDataGenusKrakenQCFiltWIS","metaDataFinalNonzeroQC_WGS",69,2019,"Esophageal Carcinoma","OtherCancerType",0.989917355371901,0.844557598607888
+"37","Colon Adenocarcinoma","Primary Tumor vs Solid Tissue Normal","vsnmDataGenusKrakenQCFiltWIS","metaDataFinalNonzeroQC_RNA",41,278,"SolidTissueNormal","PrimaryTumor",0.855421686746988,0.945126863621128
+"38","Head and Neck Squamous Cell Carcinoma","Primary Tumor","vsnmDataGenusKrakenQCFiltWIS","metaDataFinalNonzeroQC_WGS",167,1921,"Head and Neck Squamous Cell Carcinoma","OtherCancerType",0.965729166666667,0.82081520758346
+"39","Kidney Chromophobe","Primary Tumor","vsnmDataGenusKrakenQCFiltWIS","metaDataFinalNonzeroQC_WGS",50,2038,"Kidney Chromophobe","OtherCancerType",0.995853791598472,0.883017739833189
+"40","Kidney Chromophobe","Primary Tumor vs Solid Tissue Normal","vsnmDataGenusKrakenQCFiltWIS","metaDataFinalNonzeroQC_RNA",25,66,"SolidTissueNormal","PrimaryTumor",0.609022556390977,0.839796877006588
+"41","Kidney Renal Clear Cell Carcinoma","Primary Tumor vs Solid Tissue Normal","vsnmDataGenusKrakenQCFiltWIS","metaDataFinalNonzeroQC_RNA",72,972,"SolidTissueNormal","PrimaryTumor",0.938635247913598,0.993452354453197
+"42","Kidney Renal Papillary Cell Carcinoma","Primary Tumor vs Solid Tissue Normal","vsnmDataGenusKrakenQCFiltWIS","metaDataFinalNonzeroQC_RNA",32,284,"SolidTissueNormal","PrimaryTumor",0.8,0.939813718170431
+"43","Liver Hepatocellular Carcinoma","Primary Tumor vs Solid Tissue Normal","vsnmDataGenusKrakenQCFiltWIS","metaDataFinalNonzeroQC_RNA",50,362,"SolidTissueNormal","PrimaryTumor",0.830864197530864,0.966699083101549
+"44","Lung Adenocarcinoma","Primary Tumor vs Solid Tissue Normal","vsnmDataGenusKrakenQCFiltWIS","metaDataFinalNonzeroQC_RNA",59,495,"SolidTissueNormal","PrimaryTumor",0.967408585055644,0.996033960079439
+"45","Lung Squamous Cell Carcinoma","Primary Tumor vs Solid Tissue Normal","vsnmDataGenusKrakenQCFiltWIS","metaDataFinalNonzeroQC_RNA",49,489,"SolidTissueNormal","PrimaryTumor",0.917318982387476,0.990143464206933
+"46","Ovarian Serous Cystadenocarcinoma","Primary Tumor","vsnmDataGenusKrakenQCFiltWIS","metaDataFinalNonzeroQC_WGS",67,2021,"Ovarian Serous Cystadenocarcinoma","OtherCancerType",0.977062706270627,0.722544506657026
+"47","Prostate Adenocarcinoma","Primary Tumor","vsnmDataGenusKrakenQCFiltWIS","metaDataFinalNonzeroQC_WGS",136,1952,"Prostate Adenocarcinoma","OtherCancerType",0.972264957264957,0.666060496364359
+"48","Rectum Adenocarcinoma","Primary Tumor","vsnmDataGenusKrakenQCFiltWIS","metaDataFinalNonzeroQC_WGS",60,2028,"Rectum Adenocarcinoma","OtherCancerType",0.961440058479532,0.402042077125011
+"49","Sarcoma","Primary Tumor","vsnmDataGenusKrakenQCFiltWIS","metaDataFinalNonzeroQC_WGS",40,2048,"Sarcoma","OtherCancerType",0.99742128121607,0.897111799716517
+"50","Skin Cutaneous Melanoma","Blood Derived Normal","vsnmDataGenusKrakenQCFiltWIS","metaDataFinalNonzeroQC_WGS",158,1685,"Skin Cutaneous Melanoma","OtherCancerType",0.938908784495471,0.577047450236451
+"51","Prostate Adenocarcinoma","Primary Tumor vs Solid Tissue Normal","vsnmDataGenusKrakenQCFiltWIS","metaDataFinalNonzeroQC_RNA",52,496,"SolidTissueNormal","PrimaryTumor",0.961261261261261,0.994904682830183
+"52","Thyroid Carcinoma","Primary Tumor","vsnmDataGenusKrakenQCFiltWIS","metaDataFinalNonzeroQC_WGS",150,1938,"Thyroid Carcinoma","OtherCancerType",0.962210747752916,0.718662745236123
+"53","Uterine Corpus Endometrial Carcinoma","Primary Tumor","vsnmDataGenusKrakenQCFiltWIS","metaDataFinalNonzeroQC_WGS",158,1930,"Uterine Corpus Endometrial Carcinoma","OtherCancerType",0.951530518502187,0.722639226468514
+"54","Stomach Adenocarcinoma","Primary Tumor vs Solid Tissue Normal","vsnmDataGenusKrakenQCFiltWIS","metaDataFinalNonzeroQC_RNA",70,690,"SolidTissueNormal","PrimaryTumor",0.908442604094778,0.988511216432114
+"55","Testicular Germ Cell Tumors","Primary Tumor","vsnmDataGenusKrakenQCFilt","metaDataFinalNonzeroQC_RNA",134,9342,"Testicular Germ Cell Tumors","OtherCancerType",0.799286224125625,0.0394292298006524
+"56","Thymoma","Primary Tumor","vsnmDataGenusKrakenQCFilt","metaDataFinalNonzeroQC_RNA",120,9356,"Thymoma","OtherCancerType",0.673675457353291,0.0212325112512483
+"57","Thyroid Carcinoma","Primary Tumor vs Solid Tissue Normal","vsnmDataGenusKrakenQCFiltWIS","metaDataFinalNonzeroQC_RNA",59,505,"SolidTissueNormal","PrimaryTumor",0.945072068562524,0.992047424355097
+"58","Uterine Carcinosarcoma","Primary Tumor","vsnmDataGenusKrakenQCFilt","metaDataFinalNonzeroQC_RNA",57,9419,"Uterine Carcinosarcoma","OtherCancerType",0.612555960437272,0.00796050294450529
+"59","Uterine Corpus Endometrial Carcinoma","Primary Tumor","vsnmDataGenusKrakenQCFilt","metaDataFinalNonzeroQC_RNA",174,9302,"Uterine Corpus Endometrial Carcinoma","OtherCancerType",0.701302729528536,0.0696811489036446
+"60","Uveal Melanoma","Primary Tumor","vsnmDataGenusKrakenQCFilt","metaDataFinalNonzeroQC_RNA",80,9396,"Uveal Melanoma","OtherCancerType",0.80379110480246,0.0522983570301519
+"61","Adrenocortical Carcinoma","Primary Tumor","vsnmDataGenusKrakenQCFiltWIS","metaDataFinalNonzeroQC_RNA",79,9397,"Adrenocortical Carcinoma","OtherCancerType",0.748122214167836,0.0276094334088017
+"62","Bladder Urothelial Carcinoma","Primary Tumor","vsnmDataGenusKrakenQCFiltWIS","metaDataFinalNonzeroQC_RNA",408,9068,"Bladder Urothelial Carcinoma","OtherCancerType",0.681078230472517,0.08191462955076
+"63","Brain Lower Grade Glioma","Primary Tumor","vsnmDataGenusKrakenQCFiltWIS","metaDataFinalNonzeroQC_RNA",514,8962,"Brain Lower Grade Glioma","OtherCancerType",0.732635667903525,0.115923605877188
+"64","Breast Invasive Carcinoma","Primary Tumor","vsnmDataGenusKrakenQCFiltWIS","metaDataFinalNonzeroQC_RNA",1082,8394,"Breast Invasive Carcinoma","OtherCancerType",0.691831161317526,0.197642720865317
+"65","Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma","Primary Tumor","vsnmDataGenusKrakenQCFiltWIS","metaDataFinalNonzeroQC_RNA",304,9172,"Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma","OtherCancerType",0.700660299351684,0.0584648386875813
+"66","Cholangiocarcinoma","Primary Tumor","vsnmDataGenusKrakenQCFiltWIS","metaDataFinalNonzeroQC_RNA",36,9440,"Cholangiocarcinoma","OtherCancerType",0.590042372881356,0.00668714573005598
+"67","Colon Adenocarcinoma","Primary Tumor","vsnmDataGenusKrakenQCFiltWIS","metaDataFinalNonzeroQC_RNA",278,9198,"Colon Adenocarcinoma","OtherCancerType",0.670563369825806,0.0471129218660892
+"68","Esophageal Carcinoma","Primary Tumor","vsnmDataGenusKrakenQCFiltWIS","metaDataFinalNonzeroQC_RNA",184,9292,"Esophageal Carcinoma","OtherCancerType",0.996137913037805,0.860750810334566
+"69","Glioblastoma Multiforme","Primary Tumor","vsnmDataGenusKrakenQCFiltWIS","metaDataFinalNonzeroQC_RNA",155,9321,"Glioblastoma Multiforme","OtherCancerType",1,1
+"70","Kidney Chromophobe","Primary Tumor","vsnmDataGenusKrakenQCFiltWIS","metaDataFinalNonzeroQC_RNA",66,9410,"Kidney Chromophobe","OtherCancerType",0.669388668270037,0.0100742909081181
+"71","Kidney Renal Clear Cell Carcinoma","Primary Tumor","vsnmDataGenusKrakenQCFiltWIS","metaDataFinalNonzeroQC_RNA",972,8504,"Kidney Renal Clear Cell Carcinoma","OtherCancerType",0.836435007631264,0.618308973420418
+"72","Kidney Renal Papillary Cell Carcinoma","Primary Tumor","vsnmDataGenusKrakenQCFiltWIS","metaDataFinalNonzeroQC_RNA",284,9192,"Kidney Renal Papillary Cell Carcinoma","OtherCancerType",0.67344300070409,0.0467863256445563
+"73","Liver Hepatocellular Carcinoma","Primary Tumor","vsnmDataGenusKrakenQCFiltWIS","metaDataFinalNonzeroQC_RNA",362,9114,"Liver Hepatocellular Carcinoma","OtherCancerType",0.78499485220407,0.102321663391225
+"74","Lung Adenocarcinoma","Primary Tumor","vsnmDataGenusKrakenQCFiltWIS","metaDataFinalNonzeroQC_RNA",495,8981,"Lung Adenocarcinoma","OtherCancerType",0.707202191055198,0.105019795943616
+"75","Lung Squamous Cell Carcinoma","Primary Tumor","vsnmDataGenusKrakenQCFiltWIS","metaDataFinalNonzeroQC_RNA",489,8987,"Lung Squamous Cell Carcinoma","OtherCancerType",0.664599508150075,0.0907757919752583
+"76","Lymphoid Neoplasm Diffuse Large B-cell Lymphoma","Primary Tumor","vsnmDataGenusKrakenQCFiltWIS","metaDataFinalNonzeroQC_RNA",47,9429,"Lymphoid Neoplasm Diffuse Large B-cell Lymphoma","OtherCancerType",0.711532632855122,0.00857187501813417
+"77","Mesothelioma","Primary Tumor","vsnmDataGenusKrakenQCFiltWIS","metaDataFinalNonzeroQC_RNA",86,9390,"Mesothelioma","OtherCancerType",0.64239971600994,0.0135524853896276
+"78","Ovarian Serous Cystadenocarcinoma","Primary Tumor","vsnmDataGenusKrakenQCFiltWIS","metaDataFinalNonzeroQC_RNA",829,8647,"Ovarian Serous Cystadenocarcinoma","OtherCancerType",0.998316524485786,0.98514337435489
+"79","Pancreatic Adenocarcinoma","Primary Tumor","vsnmDataGenusKrakenQCFiltWIS","metaDataFinalNonzeroQC_RNA",178,9298,"Pancreatic Adenocarcinoma","OtherCancerType",0.634568419058701,0.0257743559548673
+"80","Pheochromocytoma and Paraganglioma","Primary Tumor","vsnmDataGenusKrakenQCFiltWIS","metaDataFinalNonzeroQC_RNA",178,9298,"Pheochromocytoma and Paraganglioma","OtherCancerType",0.738994838212114,0.0438343478857101
+"81","Prostate Adenocarcinoma","Primary Tumor","vsnmDataGenusKrakenQCFiltWIS","metaDataFinalNonzeroQC_RNA",496,8980,"Prostate Adenocarcinoma","OtherCancerType",0.738121752041574,0.115798710424349
+"82","Rectum Adenocarcinoma","Primary Tumor","vsnmDataGenusKrakenQCFiltWIS","metaDataFinalNonzeroQC_RNA",92,9384,"Rectum Adenocarcinoma","OtherCancerType",0.655825274652983,0.0135480365986729
+"83","Skin Cutaneous Melanoma","Primary Tumor","vsnmDataGenusKrakenQCFiltWIS","metaDataFinalNonzeroQC_RNA",102,9374,"Skin Cutaneous Melanoma","OtherCancerType",0.57873399715505,0.0126863024632154
+"84","Stomach Adenocarcinoma","Primary Tumor","vsnmDataGenusKrakenQCFiltWIS","metaDataFinalNonzeroQC_RNA",690,8786,"Stomach Adenocarcinoma","OtherCancerType",0.99392789373814,0.928800392330212
+"85","Testicular Germ Cell Tumors","Primary Tumor","vsnmDataGenusKrakenQCFiltWIS","metaDataFinalNonzeroQC_RNA",134,9342,"Testicular Germ Cell Tumors","OtherCancerType",0.722751605995717,0.0286898549215328
+"86","Thymoma","Primary Tumor","vsnmDataGenusKrakenQCFiltWIS","metaDataFinalNonzeroQC_RNA",120,9356,"Thymoma","OtherCancerType",0.639225469232597,0.0197491023902176
+"87","Thyroid Carcinoma","Primary Tumor","vsnmDataGenusKrakenQCFiltWIS","metaDataFinalNonzeroQC_RNA",505,8971,"Thyroid Carcinoma","OtherCancerType",0.854390770313604,0.304795221907852
+"88","Uterine Carcinosarcoma","Primary Tumor","vsnmDataGenusKrakenQCFiltWIS","metaDataFinalNonzeroQC_RNA",57,9419,"Uterine Carcinosarcoma","OtherCancerType",0.687214992191567,0.0101408409443173
+"89","Uterine Corpus Endometrial Carcinoma","Primary Tumor","vsnmDataGenusKrakenQCFiltWIS","metaDataFinalNonzeroQC_RNA",174,9302,"Uterine Corpus Endometrial Carcinoma","OtherCancerType",0.63098635235732,0.0262140953335618
+"90","Uveal Melanoma","Primary Tumor","vsnmDataGenusKrakenQCFiltWIS","metaDataFinalNonzeroQC_RNA",80,9396,"Uveal Melanoma","OtherCancerType",0.762250118287201,0.0781505441661726

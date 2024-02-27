@@ -1,0 +1,2 @@
+"","diseaseType","sampleType","datasetName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName","aucroc","aupr"
+"1","Kidney Renal Papillary Cell Carcinoma","Primary Tumor vs Solid Tissue Normal","vsnmDataGenusKrakenQCFilt",36,321,"SolidTissueNormal","PrimaryTumor",0.84375,0.956985654316977

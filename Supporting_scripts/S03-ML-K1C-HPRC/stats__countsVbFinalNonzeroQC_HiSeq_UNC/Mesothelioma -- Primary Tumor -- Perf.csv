@@ -1,0 +1,2 @@
+"","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName","aucroc","aupr"
+"1","Mesothelioma","Primary Tumor","countsVbFinalNonzeroQC_HiSeq_UNC","metaDataFinalNonzeroQC_HiSeq_UNC",86,7532,"Mesothelioma","OtherCancerType",0.727454625940682,0.023096857465196

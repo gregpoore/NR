@@ -1,0 +1,2 @@
+"","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName","aucroc","aupr"
+"1","Bladder Urothelial Carcinoma","Primary Tumor vs Solid Tissue Normal","vsnmDataGenusKrakenQCFilt","metaDataFinalNonzeroQC",48,548,"SolidTissueNormal","PrimaryTumor",0.802264808362369,0.958988305030759

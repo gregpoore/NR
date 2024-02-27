@@ -1,0 +1,2 @@
+"","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName","aucroc","aupr"
+"1","Kidney Renal Papillary Cell Carcinoma","Blood Derived Normal","countsVbFinalNonzeroQCBinsWIS_HiSeq_BCM","metaDataFinalNonzeroQC_HiSeq_BCM",34,162,"Kidney Renal Papillary Cell Carcinoma","OtherCancerType",0.70625,0.370730103308718

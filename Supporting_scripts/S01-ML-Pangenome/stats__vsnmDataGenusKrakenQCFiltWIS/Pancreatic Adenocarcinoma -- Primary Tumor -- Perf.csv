@@ -1,0 +1,2 @@
+"","diseaseType","sampleType","datasetName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName","aucroc","aupr"
+"1","Pancreatic Adenocarcinoma","Primary Tumor","vsnmDataGenusKrakenQCFiltWIS",178,11386,"Pancreatic Adenocarcinoma","OtherCancerType",0.71348379789497,0.028518872718

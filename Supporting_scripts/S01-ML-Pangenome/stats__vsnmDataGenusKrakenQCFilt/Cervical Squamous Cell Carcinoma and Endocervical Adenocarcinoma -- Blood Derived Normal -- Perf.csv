@@ -1,0 +1,2 @@
+"","diseaseType","sampleType","datasetName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName","aucroc","aupr"
+"1","Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma","Blood Derived Normal","vsnmDataGenusKrakenQCFilt",23,258,"Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma","OtherCancerType",0.961038961038961,0.454523975353546

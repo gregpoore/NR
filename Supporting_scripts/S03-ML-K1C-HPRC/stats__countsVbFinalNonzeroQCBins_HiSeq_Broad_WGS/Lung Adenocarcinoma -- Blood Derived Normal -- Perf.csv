@@ -1,0 +1,2 @@
+"","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName","aucroc","aupr"
+"1","Lung Adenocarcinoma","Blood Derived Normal","countsVbFinalNonzeroQCBins_HiSeq_Broad_WGS","metaDataFinalNonzeroQC_HiSeq_Broad_WGS",24,280,"Lung Adenocarcinoma","OtherCancerType",0.886054421768708,0.538331775062845

@@ -1,0 +1,2 @@
+"","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName","aucroc","aupr"
+"1","Thyroid Carcinoma","Blood Derived Normal","countsVbFinalNonzeroQCBinsWIS_HiSeq_HMS","metaDataFinalNonzeroQC_HiSeq_HMS",69,759,"Thyroid Carcinoma","OtherCancerType",0.9715859030837,0.749208702572454

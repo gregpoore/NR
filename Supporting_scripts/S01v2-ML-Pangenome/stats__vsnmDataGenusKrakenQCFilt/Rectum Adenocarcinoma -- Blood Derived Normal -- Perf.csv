@@ -1,0 +1,2 @@
+"","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName","aucroc","aupr"
+"1","Rectum Adenocarcinoma","Blood Derived Normal","vsnmDataGenusKrakenQCFilt","metaDataFinalNonzeroQC_noMutGuardant",20,452,"Rectum Adenocarcinoma","OtherCancerType",0.923456790123457,0.242850791686206

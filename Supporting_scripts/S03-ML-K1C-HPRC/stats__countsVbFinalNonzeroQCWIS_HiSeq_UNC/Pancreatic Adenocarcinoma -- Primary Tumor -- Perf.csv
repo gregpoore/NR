@@ -1,0 +1,2 @@
+"","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName","aucroc","aupr"
+"1","Pancreatic Adenocarcinoma","Primary Tumor","countsVbFinalNonzeroQCWIS_HiSeq_UNC","metaDataFinalNonzeroQC_HiSeq_UNC",178,7440,"Pancreatic Adenocarcinoma","OtherCancerType",0.525715155203895,0.0247199697575673

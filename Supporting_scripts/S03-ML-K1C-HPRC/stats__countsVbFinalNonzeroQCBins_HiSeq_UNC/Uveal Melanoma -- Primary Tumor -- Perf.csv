@@ -1,0 +1,2 @@
+"","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName","aucroc","aupr"
+"1","Uveal Melanoma","Primary Tumor","countsVbFinalNonzeroQCBins_HiSeq_UNC","metaDataFinalNonzeroQC_HiSeq_UNC",80,7538,"Uveal Melanoma","OtherCancerType",0.798549683031107,0.0465618528249177

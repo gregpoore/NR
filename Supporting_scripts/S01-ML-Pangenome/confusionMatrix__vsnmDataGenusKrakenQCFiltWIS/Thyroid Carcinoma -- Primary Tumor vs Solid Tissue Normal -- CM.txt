@@ -1,0 +1,28 @@
+[1] "Thyroid Carcinoma"
+Confusion Matrix and Statistics
+
+                   Reference
+Prediction          PrimaryTumor SolidTissueNormal
+  PrimaryTumor               176                 8
+  SolidTissueNormal           20                15
+                                          
+               Accuracy : 0.8721          
+                 95% CI : (0.8205, 0.9133)
+    No Information Rate : 0.895           
+    P-Value [Acc > NIR] : 0.88519         
+                                          
+                  Kappa : 0.4472          
+                                          
+ Mcnemar's Test P-Value : 0.03764         
+                                          
+            Sensitivity : 0.8980          
+            Specificity : 0.6522          
+         Pos Pred Value : 0.9565          
+         Neg Pred Value : 0.4286          
+             Prevalence : 0.8950          
+         Detection Rate : 0.8037          
+   Detection Prevalence : 0.8402          
+      Balanced Accuracy : 0.7751          
+                                          
+       'Positive' Class : PrimaryTumor    
+                                          

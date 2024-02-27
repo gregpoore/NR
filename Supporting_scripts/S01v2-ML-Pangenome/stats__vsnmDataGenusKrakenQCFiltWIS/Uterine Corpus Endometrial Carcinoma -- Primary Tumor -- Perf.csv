@@ -1,0 +1,2 @@
+"","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName","aucroc","aupr"
+"1","Uterine Corpus Endometrial Carcinoma","Primary Tumor","vsnmDataGenusKrakenQCFiltWIS","metaDataFinalNonzeroQC",332,11232,"Uterine Corpus Endometrial Carcinoma","OtherCancerType",0.787132230587262,0.292303097422976

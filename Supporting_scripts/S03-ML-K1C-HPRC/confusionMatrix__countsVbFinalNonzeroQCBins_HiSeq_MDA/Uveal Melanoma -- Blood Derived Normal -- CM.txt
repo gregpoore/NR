@@ -1,0 +1,28 @@
+[1] "Uveal Melanoma"
+Confusion Matrix and Statistics
+
+                 Reference
+Prediction        OtherCancerType UvealMelanoma
+  OtherCancerType              47             1
+  UvealMelanoma                 8            14
+                                          
+               Accuracy : 0.8714          
+                 95% CI : (0.7699, 0.9395)
+    No Information Rate : 0.7857          
+    P-Value [Acc > NIR] : 0.04871         
+                                          
+                  Kappa : 0.6736          
+                                          
+ Mcnemar's Test P-Value : 0.04550         
+                                          
+            Sensitivity : 0.9333          
+            Specificity : 0.8545          
+         Pos Pred Value : 0.6364          
+         Neg Pred Value : 0.9792          
+             Prevalence : 0.2143          
+         Detection Rate : 0.2000          
+   Detection Prevalence : 0.3143          
+      Balanced Accuracy : 0.8939          
+                                          
+       'Positive' Class : UvealMelanoma   
+                                          

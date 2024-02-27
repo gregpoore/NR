@@ -1,0 +1,28 @@
+[1] "Colon Adenocarcinoma"
+Confusion Matrix and Statistics
+
+          Reference
+Prediction Stage1 Stage4
+    Stage1     16      9
+    Stage4      4      6
+                                          
+               Accuracy : 0.6286          
+                 95% CI : (0.4492, 0.7853)
+    No Information Rate : 0.5714          
+    P-Value [Acc > NIR] : 0.3067          
+                                          
+                  Kappa : 0.2087          
+                                          
+ Mcnemar's Test P-Value : 0.2673          
+                                          
+            Sensitivity : 0.4000          
+            Specificity : 0.8000          
+         Pos Pred Value : 0.6000          
+         Neg Pred Value : 0.6400          
+             Prevalence : 0.4286          
+         Detection Rate : 0.1714          
+   Detection Prevalence : 0.2857          
+      Balanced Accuracy : 0.6000          
+                                          
+       'Positive' Class : Stage4          
+                                          

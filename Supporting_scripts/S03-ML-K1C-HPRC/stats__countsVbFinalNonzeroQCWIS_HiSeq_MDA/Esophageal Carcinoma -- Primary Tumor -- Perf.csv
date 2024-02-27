@@ -1,0 +1,2 @@
+"","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName","aucroc","aupr"
+"1","Esophageal Carcinoma","Primary Tumor","countsVbFinalNonzeroQCWIS_HiSeq_MDA","metaDataFinalNonzeroQC_HiSeq_MDA",51,208,"Esophageal Carcinoma","OtherCancerType",0.966666666666667,0.837664371994425

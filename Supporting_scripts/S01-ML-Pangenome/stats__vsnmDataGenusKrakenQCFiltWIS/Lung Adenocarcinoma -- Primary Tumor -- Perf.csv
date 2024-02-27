@@ -1,0 +1,2 @@
+"","diseaseType","sampleType","datasetName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName","aucroc","aupr"
+"1","Lung Adenocarcinoma","Primary Tumor","vsnmDataGenusKrakenQCFiltWIS",653,10911,"Lung Adenocarcinoma","OtherCancerType",0.802369816760284,0.305240499194199

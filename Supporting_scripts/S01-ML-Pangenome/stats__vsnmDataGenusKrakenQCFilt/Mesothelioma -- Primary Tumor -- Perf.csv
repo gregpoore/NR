@@ -1,0 +1,2 @@
+"","diseaseType","sampleType","datasetName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName","aucroc","aupr"
+"1","Mesothelioma","Primary Tumor","vsnmDataGenusKrakenQCFilt",86,11478,"Mesothelioma","OtherCancerType",0.74035434214348,0.0148703054656061

@@ -1,0 +1,2 @@
+"","diseaseType","sampleType","datasetName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName","aucroc","aupr"
+"1","Kidney Renal Clear Cell Carcinoma","Stage I vs IV","vsnmDataGenusKrakenQCFiltWIS",170,495,"Stage4","Stage1",0.664414414414414,0.399789668720553

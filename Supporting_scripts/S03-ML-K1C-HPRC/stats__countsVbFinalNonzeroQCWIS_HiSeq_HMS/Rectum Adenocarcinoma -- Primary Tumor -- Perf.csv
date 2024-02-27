@@ -1,0 +1,2 @@
+"","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName","aucroc","aupr"
+"1","Rectum Adenocarcinoma","Primary Tumor","countsVbFinalNonzeroQCWIS_HiSeq_HMS","metaDataFinalNonzeroQC_HiSeq_HMS",36,833,"Rectum Adenocarcinoma","OtherCancerType",0.96425702811245,0.437073270323839

@@ -1,0 +1,2 @@
+"","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName","aucroc","aupr"
+"1","Liver Hepatocellular Carcinoma","Primary Tumor vs Solid Tissue Normal","countsVbFinalNonzeroQC_HiSeq_BCM","metaDataFinalNonzeroQC_HiSeq_BCM",22,54,"SolidTissueNormal","PrimaryTumor",0.864583333333333,0.93824145797853

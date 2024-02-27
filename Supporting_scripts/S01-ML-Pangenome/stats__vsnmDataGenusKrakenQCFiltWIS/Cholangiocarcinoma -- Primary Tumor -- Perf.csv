@@ -1,0 +1,2 @@
+"","diseaseType","sampleType","datasetName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName","aucroc","aupr"
+"1","Cholangiocarcinoma","Primary Tumor","vsnmDataGenusKrakenQCFiltWIS",36,11528,"Cholangiocarcinoma","OtherCancerType",0.648756506651244,0.0112141775431553

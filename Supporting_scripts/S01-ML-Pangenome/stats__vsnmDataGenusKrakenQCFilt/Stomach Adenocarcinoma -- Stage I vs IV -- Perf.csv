@@ -1,0 +1,2 @@
+"","diseaseType","sampleType","datasetName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName","aucroc","aupr"
+"1","Stomach Adenocarcinoma","Stage I vs IV","vsnmDataGenusKrakenQCFilt",93,124,"Stage4","Stage1",0.848848848848849,0.823278695174464

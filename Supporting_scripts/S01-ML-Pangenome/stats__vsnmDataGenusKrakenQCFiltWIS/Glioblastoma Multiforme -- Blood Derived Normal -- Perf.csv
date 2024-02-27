@@ -1,0 +1,2 @@
+"","diseaseType","sampleType","datasetName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName","aucroc","aupr"
+"1","Glioblastoma Multiforme","Blood Derived Normal","vsnmDataGenusKrakenQCFiltWIS",32,440,"Glioblastoma Multiforme","OtherCancerType",0.858585858585859,0.707657787509583

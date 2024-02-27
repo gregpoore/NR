@@ -1,0 +1,2 @@
+"","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName","aucroc","aupr"
+"1","Prostate Adenocarcinoma","Primary Tumor","countsVbFinalNonzeroQC_HiSeq_UNC","metaDataFinalNonzeroQC_HiSeq_UNC",496,7122,"Prostate Adenocarcinoma","OtherCancerType",0.684007743698755,0.149182077767447

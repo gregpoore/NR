@@ -1,0 +1,2 @@
+"","diseaseType","sampleType","datasetName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName","aucroc","aupr"
+"1","Esophageal Carcinoma","Blood Derived Normal","vsnmDataGenusKrakenQCFilt",30,628,"Esophageal Carcinoma","OtherCancerType",0.989952718676123,0.810793417329672

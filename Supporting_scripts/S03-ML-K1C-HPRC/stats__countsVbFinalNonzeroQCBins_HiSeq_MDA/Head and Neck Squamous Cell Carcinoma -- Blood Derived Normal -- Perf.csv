@@ -1,0 +1,2 @@
+"","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName","aucroc","aupr"
+"1","Head and Neck Squamous Cell Carcinoma","Blood Derived Normal","countsVbFinalNonzeroQCBins_HiSeq_MDA","metaDataFinalNonzeroQC_HiSeq_MDA",22,214,"Head and Neck Squamous Cell Carcinoma","OtherCancerType",0.8515625,0.414240918193614

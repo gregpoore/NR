@@ -1,0 +1,28 @@
+[1] "Head and Neck Squamous Cell Carcinoma"
+Confusion Matrix and Statistics
+
+                   Reference
+Prediction          PrimaryTumor SolidTissueNormal
+  PrimaryTumor                48                 5
+  SolidTissueNormal            2                 2
+                                          
+               Accuracy : 0.8772          
+                 95% CI : (0.7632, 0.9492)
+    No Information Rate : 0.8772          
+    P-Value [Acc > NIR] : 0.5989          
+                                          
+                  Kappa : 0.3012          
+                                          
+ Mcnemar's Test P-Value : 0.4497          
+                                          
+            Sensitivity : 0.9600          
+            Specificity : 0.2857          
+         Pos Pred Value : 0.9057          
+         Neg Pred Value : 0.5000          
+             Prevalence : 0.8772          
+         Detection Rate : 0.8421          
+   Detection Prevalence : 0.9298          
+      Balanced Accuracy : 0.6229          
+                                          
+       'Positive' Class : PrimaryTumor    
+                                          

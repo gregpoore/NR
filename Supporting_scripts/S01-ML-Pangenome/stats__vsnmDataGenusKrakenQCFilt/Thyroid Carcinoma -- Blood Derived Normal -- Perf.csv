@@ -1,0 +1,2 @@
+"","diseaseType","sampleType","datasetName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName","aucroc","aupr"
+"1","Thyroid Carcinoma","Blood Derived Normal","vsnmDataGenusKrakenQCFilt",43,238,"Thyroid Carcinoma","OtherCancerType",0.936619718309859,0.735144853806311

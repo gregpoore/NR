@@ -1,0 +1,28 @@
+[1] "Kidney Renal Clear Cell Carcinoma"
+Confusion Matrix and Statistics
+
+          Reference
+Prediction Stage1 Stage4
+    Stage1    122     39
+    Stage4     26     12
+                                         
+               Accuracy : 0.6734         
+                 95% CI : (0.6035, 0.738)
+    No Information Rate : 0.7437         
+    P-Value [Acc > NIR] : 0.9894         
+                                         
+                  Kappa : 0.0651         
+                                         
+ Mcnemar's Test P-Value : 0.1366         
+                                         
+            Sensitivity : 0.2353         
+            Specificity : 0.8243         
+         Pos Pred Value : 0.3158         
+         Neg Pred Value : 0.7578         
+             Prevalence : 0.2563         
+         Detection Rate : 0.0603         
+   Detection Prevalence : 0.1910         
+      Balanced Accuracy : 0.5298         
+                                         
+       'Positive' Class : Stage4         
+                                         

@@ -1,0 +1,2 @@
+"","diseaseType","sampleType","datasetName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName","aucroc","aupr"
+"1","Skin Cutaneous Melanoma","Primary Tumor","vsnmDataGenusKrakenQCFiltWIS",120,11444,"Skin Cutaneous Melanoma","OtherCancerType",0.709280027187106,0.0224571538455673

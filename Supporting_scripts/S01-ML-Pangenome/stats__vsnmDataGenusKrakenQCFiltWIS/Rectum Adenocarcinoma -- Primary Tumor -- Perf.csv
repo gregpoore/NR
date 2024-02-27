@@ -1,0 +1,2 @@
+"","diseaseType","sampleType","datasetName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName","aucroc","aupr"
+"1","Rectum Adenocarcinoma","Primary Tumor","vsnmDataGenusKrakenQCFiltWIS",152,11412,"Rectum Adenocarcinoma","OtherCancerType",0.776518323757588,0.157168477177077

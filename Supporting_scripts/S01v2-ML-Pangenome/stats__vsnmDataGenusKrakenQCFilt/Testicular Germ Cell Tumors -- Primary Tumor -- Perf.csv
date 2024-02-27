@@ -1,0 +1,2 @@
+"","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName","aucroc","aupr"
+"1","Testicular Germ Cell Tumors","Primary Tumor","vsnmDataGenusKrakenQCFilt","metaDataFinalNonzeroQC",134,11430,"Testicular Germ Cell Tumors","OtherCancerType",0.837153689122193,0.0409873863584618

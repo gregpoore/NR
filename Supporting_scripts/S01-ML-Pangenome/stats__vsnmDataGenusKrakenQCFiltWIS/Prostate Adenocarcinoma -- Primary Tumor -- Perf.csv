@@ -1,0 +1,2 @@
+"","diseaseType","sampleType","datasetName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName","aucroc","aupr"
+"1","Prostate Adenocarcinoma","Primary Tumor","vsnmDataGenusKrakenQCFiltWIS",632,10932,"Prostate Adenocarcinoma","OtherCancerType",0.784012741011826,0.287392808770942

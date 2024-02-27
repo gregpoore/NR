@@ -1,0 +1,2 @@
+"","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName","aucroc","aupr"
+"1","Stomach Adenocarcinoma","Primary Tumor","countsVbFinalNonzeroQC_HiSeq_Broad_WGS","metaDataFinalNonzeroQC_HiSeq_Broad_WGS",38,315,"Stomach Adenocarcinoma","OtherCancerType",0.845261121856867,0.494765480655547

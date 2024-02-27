@@ -1,0 +1,2 @@
+"","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName","aucroc","aupr"
+"1","Lung Squamous Cell Carcinoma","Primary Tumor","countsVbFinalNonzeroQC_HiSeq_Broad_WGS","metaDataFinalNonzeroQC_HiSeq_Broad_WGS",49,304,"Lung Squamous Cell Carcinoma","OtherCancerType",0.97723704866562,0.849697566727878

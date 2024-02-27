@@ -1,0 +1,2 @@
+"","diseaseType","sampleType","datasetName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName","aucroc","aupr"
+"1","Breast Invasive Carcinoma","Blood Derived Normal","vsnmDataGenusKrakenQCFilt",25,447,"Breast Invasive Carcinoma","OtherCancerType",0.988272921108742,0.634018901296553

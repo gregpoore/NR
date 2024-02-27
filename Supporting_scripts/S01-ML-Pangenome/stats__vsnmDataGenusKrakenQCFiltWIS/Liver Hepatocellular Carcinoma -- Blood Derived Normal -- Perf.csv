@@ -1,0 +1,2 @@
+"","diseaseType","sampleType","datasetName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName","aucroc","aupr"
+"1","Liver Hepatocellular Carcinoma","Blood Derived Normal","vsnmDataGenusKrakenQCFiltWIS",21,637,"Liver Hepatocellular Carcinoma","OtherCancerType",0.978184991273996,0.426255848491224

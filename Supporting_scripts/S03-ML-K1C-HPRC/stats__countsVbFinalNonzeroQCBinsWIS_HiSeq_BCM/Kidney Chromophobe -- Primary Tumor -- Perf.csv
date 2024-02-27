@@ -1,0 +1,2 @@
+"","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName","aucroc","aupr"
+"1","Kidney Chromophobe","Primary Tumor","countsVbFinalNonzeroQCBinsWIS_HiSeq_BCM","metaDataFinalNonzeroQC_HiSeq_BCM",50,264,"Kidney Chromophobe","OtherCancerType",0.89957805907173,0.593314970368334

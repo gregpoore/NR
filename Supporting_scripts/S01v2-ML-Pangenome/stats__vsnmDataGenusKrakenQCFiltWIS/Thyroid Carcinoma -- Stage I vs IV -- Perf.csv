@@ -1,0 +1,2 @@
+"","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName","aucroc","aupr"
+"1","Thyroid Carcinoma","Stage I vs IV","vsnmDataGenusKrakenQCFiltWIS","metaDataFinalNonzeroQC_noMutFoundation",76,363,"Stage4","Stage1",0.483164983164983,0.159391664685418

@@ -1,0 +1,2 @@
+"","diseaseType","sampleType","datasetName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName","aucroc","aupr"
+"1","Adrenocortical Carcinoma","Primary Tumor","vsnmDataGenusKrakenQCFiltWIS",79,11485,"Adrenocortical Carcinoma","OtherCancerType",0.778279800593172,0.0193514183613163

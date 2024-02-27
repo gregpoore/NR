@@ -1,0 +1,2 @@
+"","diseaseType","sampleType","datasetName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName","aucroc","aupr"
+"1","Uterine Carcinosarcoma","Primary Tumor","vsnmDataGenusKrakenQCFiltWIS",57,11507,"Uterine Carcinosarcoma","OtherCancerType",0.742655579033467,0.00960529487249052

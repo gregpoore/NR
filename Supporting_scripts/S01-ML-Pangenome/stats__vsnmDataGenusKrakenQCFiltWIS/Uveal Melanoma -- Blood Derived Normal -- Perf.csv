@@ -1,0 +1,2 @@
+"","diseaseType","sampleType","datasetName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName","aucroc","aupr"
+"1","Uveal Melanoma","Blood Derived Normal","vsnmDataGenusKrakenQCFiltWIS",21,637,"Uveal Melanoma","OtherCancerType",0.974694589877836,0.44493150491536

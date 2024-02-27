@@ -1,0 +1,2 @@
+"","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName","aucroc","aupr"
+"1","Stomach Adenocarcinoma","Blood Derived Normal","countsVbFinalNonzeroQCBins_HiSeq_HMS","metaDataFinalNonzeroQC_HiSeq_HMS",78,750,"Stomach Adenocarcinoma","OtherCancerType",0.934106280193237,0.562894609682218

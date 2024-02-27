@@ -1,0 +1,2 @@
+"","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName","aucroc","aupr"
+"1","Liver Hepatocellular Carcinoma","Blood Derived Normal","countsVbFinalNonzeroQC_HiSeq_BCM","metaDataFinalNonzeroQC_HiSeq_BCM",32,164,"Liver Hepatocellular Carcinoma","OtherCancerType",0.90249433106576,0.776955523297582

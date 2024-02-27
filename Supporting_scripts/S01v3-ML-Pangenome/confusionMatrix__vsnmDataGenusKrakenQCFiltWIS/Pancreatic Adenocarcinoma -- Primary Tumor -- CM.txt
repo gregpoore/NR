@@ -1,0 +1,28 @@
+[1] "Pancreatic Adenocarcinoma"
+Confusion Matrix and Statistics
+
+                          Reference
+Prediction                 OtherCancerType PancreaticAdenocarcinoma
+  OtherCancerType                     2245                       40
+  PancreaticAdenocarcinoma             544                       13
+                                                  
+               Accuracy : 0.7945                  
+                 95% CI : (0.7792, 0.8092)        
+    No Information Rate : 0.9814                  
+    P-Value [Acc > NIR] : 1                       
+                                                  
+                  Kappa : 0.0089                  
+                                                  
+ Mcnemar's Test P-Value : <2e-16                  
+                                                  
+            Sensitivity : 0.245283                
+            Specificity : 0.804948                
+         Pos Pred Value : 0.023339                
+         Neg Pred Value : 0.982495                
+             Prevalence : 0.018649                
+         Detection Rate : 0.004574                
+   Detection Prevalence : 0.195989                
+      Balanced Accuracy : 0.525116                
+                                                  
+       'Positive' Class : PancreaticAdenocarcinoma
+                                                  

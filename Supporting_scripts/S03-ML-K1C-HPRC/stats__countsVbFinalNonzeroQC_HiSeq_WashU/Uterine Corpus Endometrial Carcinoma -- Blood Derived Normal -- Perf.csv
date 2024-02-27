@@ -1,0 +1,2 @@
+"","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName","aucroc","aupr"
+"1","Uterine Corpus Endometrial Carcinoma","Blood Derived Normal","countsVbFinalNonzeroQC_HiSeq_WashU","metaDataFinalNonzeroQC_HiSeq_WashU",48,141,"Uterine Corpus Endometrial Carcinoma","OtherCancerType",0.86734693877551,0.734567021420972

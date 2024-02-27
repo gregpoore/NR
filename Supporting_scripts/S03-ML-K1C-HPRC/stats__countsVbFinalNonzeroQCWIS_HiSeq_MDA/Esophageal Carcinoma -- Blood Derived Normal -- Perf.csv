@@ -1,0 +1,2 @@
+"","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName","aucroc","aupr"
+"1","Esophageal Carcinoma","Blood Derived Normal","countsVbFinalNonzeroQCWIS_HiSeq_MDA","metaDataFinalNonzeroQC_HiSeq_MDA",35,201,"Esophageal Carcinoma","OtherCancerType",0.918333333333333,0.632000887908267

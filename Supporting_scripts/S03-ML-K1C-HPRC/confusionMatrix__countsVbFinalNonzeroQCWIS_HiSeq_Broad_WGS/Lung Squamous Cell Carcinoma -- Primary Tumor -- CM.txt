@@ -1,0 +1,28 @@
+[1] "Lung Squamous Cell Carcinoma"
+Confusion Matrix and Statistics
+
+                           Reference
+Prediction                  LungSquamousCellCarcinoma OtherCancerType
+  LungSquamousCellCarcinoma                         6               4
+  OtherCancerType                                   8              87
+                                                   
+               Accuracy : 0.8857                   
+                 95% CI : (0.8089, 0.9395)         
+    No Information Rate : 0.8667                   
+    P-Value [Acc > NIR] : 0.3442                   
+                                                   
+                  Kappa : 0.4375                   
+                                                   
+ Mcnemar's Test P-Value : 0.3865                   
+                                                   
+            Sensitivity : 0.42857                  
+            Specificity : 0.95604                  
+         Pos Pred Value : 0.60000                  
+         Neg Pred Value : 0.91579                  
+             Prevalence : 0.13333                  
+         Detection Rate : 0.05714                  
+   Detection Prevalence : 0.09524                  
+      Balanced Accuracy : 0.69231                  
+                                                   
+       'Positive' Class : LungSquamousCellCarcinoma
+                                                   

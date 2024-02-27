@@ -1,0 +1,28 @@
+[1] "Esophageal Carcinoma"
+Confusion Matrix and Statistics
+
+                   Reference
+Prediction          PrimaryTumor SolidTissueNormal
+  PrimaryTumor                71                10
+  SolidTissueNormal            4                 1
+                                        
+               Accuracy : 0.8372        
+                 95% CI : (0.742, 0.908)
+    No Information Rate : 0.8721        
+    P-Value [Acc > NIR] : 0.8692        
+                                        
+                  Kappa : 0.049         
+                                        
+ Mcnemar's Test P-Value : 0.1814        
+                                        
+            Sensitivity : 0.94667       
+            Specificity : 0.09091       
+         Pos Pred Value : 0.87654       
+         Neg Pred Value : 0.20000       
+             Prevalence : 0.87209       
+         Detection Rate : 0.82558       
+   Detection Prevalence : 0.94186       
+      Balanced Accuracy : 0.51879       
+                                        
+       'Positive' Class : PrimaryTumor  
+                                        

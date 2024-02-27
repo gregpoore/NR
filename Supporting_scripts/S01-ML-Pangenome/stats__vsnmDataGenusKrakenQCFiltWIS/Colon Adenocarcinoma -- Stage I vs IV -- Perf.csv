@@ -1,0 +1,2 @@
+"","diseaseType","sampleType","datasetName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName","aucroc","aupr"
+"1","Colon Adenocarcinoma","Stage I vs IV","vsnmDataGenusKrakenQCFiltWIS",53,69,"Stage4","Stage1",0.493333333333333,0.396858903732056

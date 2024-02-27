@@ -1,0 +1,2 @@
+"","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName","aucroc","aupr"
+"1","Uveal Melanoma","Blood Derived Normal","countsVbFinalNonzeroQCBins_HiSeq_MDA","metaDataFinalNonzeroQC_HiSeq_MDA",50,186,"Uveal Melanoma","OtherCancerType",0.979393939393939,0.9315946327863

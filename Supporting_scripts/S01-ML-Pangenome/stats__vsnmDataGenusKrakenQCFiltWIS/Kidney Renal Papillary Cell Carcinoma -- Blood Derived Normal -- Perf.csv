@@ -1,0 +1,2 @@
+"","diseaseType","sampleType","datasetName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName","aucroc","aupr"
+"1","Kidney Renal Papillary Cell Carcinoma","Blood Derived Normal","vsnmDataGenusKrakenQCFiltWIS",24,257,"Kidney Renal Papillary Cell Carcinoma","OtherCancerType",0.907235621521336,0.510324804332099

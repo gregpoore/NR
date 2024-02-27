@@ -1,0 +1,2 @@
+"","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName","aucroc","aupr"
+"1","Pheochromocytoma and Paraganglioma","Primary Tumor","countsVbFinalNonzeroQC_HiSeq_UNC","metaDataFinalNonzeroQC_HiSeq_UNC",178,7440,"Pheochromocytoma and Paraganglioma","OtherCancerType",0.754311219314262,0.0568510756506492

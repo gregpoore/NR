@@ -1,0 +1,2 @@
+"","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName","aucroc","aupr"
+"1","Breast Invasive Carcinoma","Stage I vs IV","vsnmDataGenusKrakenQCFilt","metaDataFinalNonzeroQC_noMutFoundation",20,200,"Stage4","Stage1",0.488888888888889,0.080308293388811

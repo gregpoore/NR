@@ -1,0 +1,2 @@
+"","diseaseType","sampleType","datasetName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName","aucroc","aupr"
+"1","Colon Adenocarcinoma","Blood Derived Normal","vsnmDataGenusKrakenQCFilt",29,252,"Colon Adenocarcinoma","OtherCancerType",0.901666666666667,0.718705828005823

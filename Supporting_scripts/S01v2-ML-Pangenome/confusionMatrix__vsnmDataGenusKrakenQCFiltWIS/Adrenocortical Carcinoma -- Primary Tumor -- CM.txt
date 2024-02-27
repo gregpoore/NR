@@ -1,0 +1,28 @@
+[1] "Adrenocortical Carcinoma"
+Confusion Matrix and Statistics
+
+                         Reference
+Prediction                AdrenocorticalCarcinoma OtherCancerType
+  AdrenocorticalCarcinoma                      10             337
+  OtherCancerType                              13            3108
+                                                 
+               Accuracy : 0.8991                 
+                 95% CI : (0.8886, 0.9089)       
+    No Information Rate : 0.9934                 
+    P-Value [Acc > NIR] : 1                      
+                                                 
+                  Kappa : 0.0421                 
+                                                 
+ Mcnemar's Test P-Value : <2e-16                 
+                                                 
+            Sensitivity : 0.434783               
+            Specificity : 0.902177               
+         Pos Pred Value : 0.028818               
+         Neg Pred Value : 0.995835               
+             Prevalence : 0.006632               
+         Detection Rate : 0.002884               
+   Detection Prevalence : 0.100058               
+      Balanced Accuracy : 0.668480               
+                                                 
+       'Positive' Class : AdrenocorticalCarcinoma
+                                                 

@@ -1,0 +1,2 @@
+"","diseaseType","sampleType","datasetName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName","aucroc","aupr"
+"1","Lung Adenocarcinoma","Stage I vs IV","vsnmDataGenusKrakenQCFiltWIS",39,343,"Stage4","Stage1",0.5650623885918,0.105392549476523

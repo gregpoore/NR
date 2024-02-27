@@ -1,0 +1,2 @@
+"","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName","aucroc","aupr"
+"1","Thyroid Carcinoma","Primary Tumor","countsVbFinalNonzeroQCWIS_HiSeq_MDA","metaDataFinalNonzeroQC_HiSeq_MDA",23,236,"Thyroid Carcinoma","OtherCancerType",0.992857142857143,0.941108482171808

@@ -1,0 +1,28 @@
+[1] "Thyroid Carcinoma"
+Confusion Matrix and Statistics
+
+          Reference
+Prediction Stage1 Stage4
+    Stage1     85     16
+    Stage4     23      6
+                                          
+               Accuracy : 0.7             
+                 95% CI : (0.6134, 0.7772)
+    No Information Rate : 0.8308          
+    P-Value [Acc > NIR] : 0.9999          
+                                          
+                  Kappa : 0.053           
+                                          
+ Mcnemar's Test P-Value : 0.3367          
+                                          
+            Sensitivity : 0.27273         
+            Specificity : 0.78704         
+         Pos Pred Value : 0.20690         
+         Neg Pred Value : 0.84158         
+             Prevalence : 0.16923         
+         Detection Rate : 0.04615         
+   Detection Prevalence : 0.22308         
+      Balanced Accuracy : 0.52988         
+                                          
+       'Positive' Class : Stage4          
+                                          

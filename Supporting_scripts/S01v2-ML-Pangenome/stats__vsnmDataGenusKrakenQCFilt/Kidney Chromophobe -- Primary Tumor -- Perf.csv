@@ -1,0 +1,2 @@
+"","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName","aucroc","aupr"
+"1","Kidney Chromophobe","Primary Tumor","vsnmDataGenusKrakenQCFilt","metaDataFinalNonzeroQC",116,11448,"Kidney Chromophobe","OtherCancerType",0.864041248415499,0.146807505911589

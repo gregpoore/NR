@@ -1,0 +1,2 @@
+"","diseaseType","sampleType","datasetName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName","aucroc","aupr"
+"1","Uterine Corpus Endometrial Carcinoma","Blood Derived Normal","vsnmDataGenusKrakenQCFiltWIS",155,1688,"Uterine Corpus Endometrial Carcinoma","OtherCancerType",0.942644784327204,0.615461244490462

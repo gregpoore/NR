@@ -1,0 +1,2 @@
+"","diseaseType","sampleType","datasetName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName","aucroc","aupr"
+"1","Lung Squamous Cell Carcinoma","Primary Tumor","vsnmDataGenusKrakenQCFiltWIS",538,11026,"Lung Squamous Cell Carcinoma","OtherCancerType",0.74136736115937,0.101231243385112

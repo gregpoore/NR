@@ -1,0 +1,28 @@
+[1] "Stomach Adenocarcinoma"
+Confusion Matrix and Statistics
+
+          Reference
+Prediction Stage1 Stage4
+    Stage1     25      6
+    Stage4     12     21
+                                         
+               Accuracy : 0.7188         
+                 95% CI : (0.5924, 0.824)
+    No Information Rate : 0.5781         
+    P-Value [Acc > NIR] : 0.01434        
+                                         
+                  Kappa : 0.4402         
+                                         
+ Mcnemar's Test P-Value : 0.23859        
+                                         
+            Sensitivity : 0.7778         
+            Specificity : 0.6757         
+         Pos Pred Value : 0.6364         
+         Neg Pred Value : 0.8065         
+             Prevalence : 0.4219         
+         Detection Rate : 0.3281         
+   Detection Prevalence : 0.5156         
+      Balanced Accuracy : 0.7267         
+                                         
+       'Positive' Class : Stage4         
+                                         

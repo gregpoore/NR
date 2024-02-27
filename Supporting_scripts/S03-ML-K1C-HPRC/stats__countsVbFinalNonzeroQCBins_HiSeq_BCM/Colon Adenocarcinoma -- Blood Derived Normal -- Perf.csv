@@ -1,0 +1,2 @@
+"","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName","aucroc","aupr"
+"1","Colon Adenocarcinoma","Blood Derived Normal","countsVbFinalNonzeroQCBins_HiSeq_BCM","metaDataFinalNonzeroQC_HiSeq_BCM",42,154,"Colon Adenocarcinoma","OtherCancerType",0.710144927536232,0.470684013618541

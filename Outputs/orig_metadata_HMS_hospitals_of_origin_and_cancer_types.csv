@@ -1,0 +1,106 @@
+"tissue_source_site_label","investigation","n"
+"ABS - IUPUI","TCGA-BLCA",3
+"ABS - IUPUI","TCGA-LUAD",10
+"ABS - IUPUI","TCGA-SKCM",2
+"ABS - IUPUI","TCGA-THCA",2
+"Asterand","TCGA-LUAD",2
+"Asterand","TCGA-SKCM",6
+"Asterand","TCGA-STAD",79
+"Asterand","TCGA-THCA",2
+"BLN - University Of Chicago","TCGA-BLCA",4
+"BLN - University of Miami","TCGA-BLCA",2
+"Case Western","TCGA-LGG",14
+"Case Western - St Joes","TCGA-LGG",16
+"Cedars Sinai","TCGA-UCEC",38
+"Christiana Healthcare","TCGA-BLCA",7
+"Christiana Healthcare","TCGA-BRCA",2
+"Christiana Healthcare","TCGA-COAD",26
+"Christiana Healthcare","TCGA-LUAD",45
+"Christiana Healthcare","TCGA-READ",8
+"Christiana Healthcare","TCGA-STAD",2
+"Christiana Healthcare","TCGA-THCA",2
+"Christiana Healthcare","TCGA-UCEC",3
+"Cureline","TCGA-LUAD",4
+"Cureline","TCGA-SKCM",10
+"Cureline","TCGA-STAD",5
+"Duke","TCGA-BRCA",8
+"Duke","TCGA-LGG",6
+"Duke","TCGA-UCEC",24
+"Essen","TCGA-SKCM",54
+"Fox Chase","TCGA-LUAD",12
+"Fox Chase","TCGA-PRAD",8
+"Greater Poland Cancer Center","TCGA-HNSC",12
+"Greater Poland Cancer Center","TCGA-SKCM",8
+"Greater Poland Cancer Center","TCGA-STAD",36
+"Gynecologic Oncology Group","TCGA-CESC",8
+"Gynecologic Oncology Group","TCGA-UCEC",10
+"Harvard","TCGA-COAD",2
+"Henry Ford Hospital","TCGA-LGG",40
+"ILSbio","TCGA-BLCA",6
+"ILSbio","TCGA-COAD",2
+"ILSbio","TCGA-LUAD",2
+"ILSbio","TCGA-STAD",14
+"ILSbio","TCGA-THCA",4
+"Indivumed","TCGA-BLCA",4
+"Indivumed","TCGA-COAD",112
+"Indivumed","TCGA-LUAD",58
+"Indivumed","TCGA-PRAD",56
+"Indivumed","TCGA-READ",79
+"Indivumed","TCGA-STAD",93
+"International Genomics Consortium","TCGA-LGG",2
+"International Genomics Consortium","TCGA-LUAD",6
+"International Genomics Consortium","TCGA-PRAD",28
+"Johns Hopkins","TCGA-HNSC",6
+"Johns Hopkins","TCGA-LUAD",28
+"Johns Hopkins","TCGA-THCA",12
+"Mayo","TCGA-BRCA",2
+"Mayo Clinic","TCGA-UCEC",49
+"Mayo Clinic - Rochester","TCGA-LGG",8
+"MD Anderson","TCGA-BLCA",12
+"MD Anderson","TCGA-SKCM",24
+"MD Anderson","TCGA-UCEC",2
+"MD Anderson Cancer Center","TCGA-HNSC",49
+"Medical College of Georgia","TCGA-BLCA",2
+"Medical College of Georgia","TCGA-THCA",5
+"Medical College of Wisconsin","TCGA-CESC",4
+"Memorial Sloan Kettering","TCGA-BLCA",28
+"Memorial Sloan Kettering","TCGA-THCA",42
+"MSKCC","TCGA-BRCA",6
+"MSKCC","TCGA-COAD",12
+"MSKCC","TCGA-LGG",4
+"MSKCC","TCGA-UCEC",26
+"Ohio State University","TCGA-THCA",16
+"Ontario Institute for Cancer Research (OICR)","TCGA-BLCA",2
+"Ontario Institute for Cancer Research (OICR)","TCGA-SKCM",4
+"Roswell","TCGA-SKCM",4
+"Roswell Park","TCGA-BLCA",2
+"Roswell Park","TCGA-LUAD",18
+"Roswell Park","TCGA-PRAD",54
+"St Joseph's Medical Center (MD)","TCGA-LUAD",6
+"Thomas Jefferson University","TCGA-LGG",12
+"UNC","TCGA-BLCA",7
+"UNC","TCGA-COAD",4
+"UNC","TCGA-HNSC",26
+"UNC","TCGA-LUAD",10
+"UNC","TCGA-STAD",2
+"University Health Network","TCGA-THCA",21
+"University Health Network, Toronto","TCGA-HNSC",20
+"University of Florida","TCGA-LGG",2
+"University of Hawaii","TCGA-UCEC",29
+"University of Michigan","TCGA-HNSC",7
+"University Of Michigan","TCGA-HNSC",1
+"University of North Carolina","TCGA-THCA",4
+"University of North Carolina","TCGA-UCEC",2
+"University of Pittsburgh","TCGA-BLCA",28
+"University of Pittsburgh","TCGA-BRCA",18
+"University of Pittsburgh","TCGA-COAD",16
+"University of Pittsburgh","TCGA-HNSC",63
+"University of Pittsburgh","TCGA-LUAD",37
+"University of Pittsburgh","TCGA-PRAD",86
+"University of Pittsburgh","TCGA-SKCM",36
+"University of Pittsburgh","TCGA-THCA",42
+"University of Pittsburgh","TCGA-UCEC",41
+"University of Sydney","TCGA-SKCM",76
+"Walter Reed","TCGA-BRCA",2
+"Washington University","TCGA-UCEC",6
+"Yale","TCGA-SKCM",14

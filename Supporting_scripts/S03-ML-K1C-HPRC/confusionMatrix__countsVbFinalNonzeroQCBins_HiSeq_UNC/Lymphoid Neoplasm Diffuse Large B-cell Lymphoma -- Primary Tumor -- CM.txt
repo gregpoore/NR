@@ -1,0 +1,32 @@
+[1] "Lymphoid Neoplasm Diffuse Large B-cell Lymphoma"
+Confusion Matrix and Statistics
+
+                                           Reference
+Prediction                                  LymphoidNeoplasmDiffuseLargeBcellLymphoma
+  LymphoidNeoplasmDiffuseLargeBcellLymphoma                                         3
+  OtherCancerType                                                                  11
+                                           Reference
+Prediction                                  OtherCancerType
+  LymphoidNeoplasmDiffuseLargeBcellLymphoma             267
+  OtherCancerType                                      2004
+                                                                   
+               Accuracy : 0.8783                                   
+                 95% CI : (0.8642, 0.8915)                         
+    No Information Rate : 0.9939                                   
+    P-Value [Acc > NIR] : 1                                        
+                                                                   
+                  Kappa : 0.0096                                   
+                                                                   
+ Mcnemar's Test P-Value : <2e-16                                   
+                                                                   
+            Sensitivity : 0.214286                                 
+            Specificity : 0.882431                                 
+         Pos Pred Value : 0.011111                                 
+         Neg Pred Value : 0.994541                                 
+             Prevalence : 0.006127                                 
+         Detection Rate : 0.001313                                 
+   Detection Prevalence : 0.118162                                 
+      Balanced Accuracy : 0.548358                                 
+                                                                   
+       'Positive' Class : LymphoidNeoplasmDiffuseLargeBcellLymphoma
+                                                                   

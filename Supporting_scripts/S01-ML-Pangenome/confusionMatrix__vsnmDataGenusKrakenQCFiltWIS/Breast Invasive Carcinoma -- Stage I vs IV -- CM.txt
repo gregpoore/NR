@@ -1,0 +1,28 @@
+[1] "Breast Invasive Carcinoma"
+Confusion Matrix and Statistics
+
+          Reference
+Prediction Stage1 Stage4
+    Stage1     55      6
+    Stage4      5      0
+                                          
+               Accuracy : 0.8333          
+                 95% CI : (0.7213, 0.9138)
+    No Information Rate : 0.9091          
+    P-Value [Acc > NIR] : 0.9849          
+                                          
+                  Kappa : -0.0901         
+                                          
+ Mcnemar's Test P-Value : 1.0000          
+                                          
+            Sensitivity : 0.00000         
+            Specificity : 0.91667         
+         Pos Pred Value : 0.00000         
+         Neg Pred Value : 0.90164         
+             Prevalence : 0.09091         
+         Detection Rate : 0.00000         
+   Detection Prevalence : 0.07576         
+      Balanced Accuracy : 0.45833         
+                                          
+       'Positive' Class : Stage4          
+                                          

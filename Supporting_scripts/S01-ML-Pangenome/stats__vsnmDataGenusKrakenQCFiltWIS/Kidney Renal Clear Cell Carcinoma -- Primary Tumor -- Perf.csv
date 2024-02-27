@@ -1,0 +1,2 @@
+"","diseaseType","sampleType","datasetName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName","aucroc","aupr"
+"1","Kidney Renal Clear Cell Carcinoma","Primary Tumor","vsnmDataGenusKrakenQCFiltWIS",1015,10549,"Kidney Renal Clear Cell Carcinoma","OtherCancerType",0.869984176425577,0.643721911121046

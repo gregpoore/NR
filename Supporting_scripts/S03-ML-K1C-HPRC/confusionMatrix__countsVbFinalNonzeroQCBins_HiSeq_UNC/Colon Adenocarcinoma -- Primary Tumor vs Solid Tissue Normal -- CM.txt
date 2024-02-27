@@ -1,0 +1,28 @@
+[1] "Colon Adenocarcinoma"
+Confusion Matrix and Statistics
+
+                   Reference
+Prediction          PrimaryTumor SolidTissueNormal
+  PrimaryTumor                66                11
+  SolidTissueNormal           17                 1
+                                          
+               Accuracy : 0.7053          
+                 95% CI : (0.6029, 0.7944)
+    No Information Rate : 0.8737          
+    P-Value [Acc > NIR] : 1.0000          
+                                          
+                  Kappa : -0.1001         
+                                          
+ Mcnemar's Test P-Value : 0.3447          
+                                          
+            Sensitivity : 0.79518         
+            Specificity : 0.08333         
+         Pos Pred Value : 0.85714         
+         Neg Pred Value : 0.05556         
+             Prevalence : 0.87368         
+         Detection Rate : 0.69474         
+   Detection Prevalence : 0.81053         
+      Balanced Accuracy : 0.43926         
+                                          
+       'Positive' Class : PrimaryTumor    
+                                          
